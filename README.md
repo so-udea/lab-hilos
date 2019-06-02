@@ -1,6 +1,4 @@
-# Laboratorio de hilos #
-
-# Memory API # 
+# Thread API # 
 
 In this section, we’ll write some simple multi-threaded programs and
 use a specific tool, called helgrind, to find problems in these programs.
